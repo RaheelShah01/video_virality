@@ -142,7 +142,7 @@ numpy==2.2.6
     # via
     #   numba
     #   openai-whisper
-    #   opencv-python
+    #   opencv-python-headless
     #   pandas
     #   pydeck
     #   scenedetect
@@ -188,7 +188,7 @@ openai==1.95.1
     # via virality-coach
 openai-whisper==20250625
     # via virality-coach
-opencv-python==4.12.0.88
+opencv-python-headless==4.8.1.78
     # via scenedetect
 packaging==25.0
     # via
